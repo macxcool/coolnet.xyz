@@ -27,6 +27,6 @@ Some of my favourite things are:
   - I love all kinds of music, as long as it is musically interesting, skillfully done and doesn't have offensive elements
 - Linux
   - I've been playing with Linux for many years
-  - I run Archlinux on my systems when possible but use Debian for my ODroid XU4-based NAS (OpenMediaVault) and the Raspberry Pi OS for our family's Minecraft ([using Paper](https://papermc.io)) on a Raspberry Pi 4
+  - I run Archlinux on my systems when possible but use Debian for my ODroid XU4-based NAS (OpenMediaVault) and the Raspberry Pi OS for our family's Minecraft server ([using Paper](https://papermc.io)) on a Raspberry Pi 4
 - Math, Science and Coding
   - I tutor highschool Math, I love Science since it's our way of thinking God's thoughts after him and, even though I'm not a software developer, I dabble in PowerShell, shell scripting, Python and anything else I can get my hands on.
