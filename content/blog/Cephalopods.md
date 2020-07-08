@@ -6,7 +6,7 @@ description: "A little bit about cephalopods"
 keywords: ["cephalopods", "creation", "beauty", "squid", "cuttlefish", "octopus", "nautilus"]
 draft: false
 tags: ["cephalopods", "creation", "beauty", "squid", "cuttlefish", "octopus", "nautilus"]
-math: false
+math: true
 toc: true
 ---
 
@@ -30,7 +30,7 @@ Also "*Their sides are 200 dpi display screens which they use for camouflage and
 
 [![XKCD Cuttlefish](https://imgs.xkcd.com/comics/cuttlefish.png "I promise not to sic them on any physicists!")](https://xkcd.com/520/)
 
-Flamboyant Cuttlefish are only about 2.5 to 3 inches, but they make up for it with their spectacular display...
+Flamboyant Cuttlefish are only about $ 2\frac{1}{2} $ to $ 3 $ inches, but they make up for it with their spectacular display...
 
 [![Flamboyand Cuttlefish](https://www.montereybayaquarium.org/globalassets/mba/images/animals/octopus-and-kin/flamboyant-cuttlefish-tr17-0974.jpg "Wow! That is cute!")](https://www.montereybayaquarium.org/animals/animals-a-to-z/flamboyant-cuttlefish/).
 
