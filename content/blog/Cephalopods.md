@@ -34,7 +34,7 @@ Flamboyant Cuttlefish are only about $ 2\frac{1}{2} $ to $ 3 $ inches, but they 
 
 [![Flamboyand Cuttlefish](https://www.montereybayaquarium.org/globalassets/mba/images/animals/octopus-and-kin/flamboyant-cuttlefish-tr17-0974.jpg "Wow! That is cute!")](https://www.montereybayaquarium.org/animals/animals-a-to-z/flamboyant-cuttlefish/).
 
-and deadly poison.
+and deadly poison. They're the only known cuttlefish with poisonous flesh.
 
 Have a look at this video and tell me you can't tell that the Great Designer is at work here.
 
@@ -77,7 +77,9 @@ I've saved Octopus for last. There are many species with a huge array of shapes 
 
 Here are some examples of some of the coolest specimens:
 
-The *Giant Pacific Octopus*; at 110 pounds and 16 feet across, this is the biggest octopus in the world. It lives for only about four or five years and the female will care for her 70,000+ eggs in a cave before dying once they hatch. Just like the other members of the family, they're weird. They have three hearts and nine brains and can drastically change the colour and texture of their skin in a split second.
+The *Giant Pacific Octopus*; at 110 pounds and 16 feet across, this is the biggest octopus in the world. It lives for only about four or five years and the female will care for her 70,000+ eggs in a cave before dying once they hatch.
+
+Just like the other members of the family, they're weird. They have three hearts and nine brains and can drastically change the colour and texture of their skin in a split second.
 
 {{< youtube ydrc489USbM >}}
 
@@ -96,4 +98,4 @@ Then there's the *Mimic Octopus* which seems to be able to ape most of the other
 
 I love the alienness, intelligence and obvious design of this incredible class of creatures.
 
-I was reminded in our family readings of exerpts from John Calvin's writings on the psalms, that David's '*The heavens declare the glory of God*' is an example of [synecdoche](https://www.dictionary.com/browse/synecdoche?s=t). Surely cephalopods should be included in a list of creatures that '*show His handiwork*'.
+I was reminded in our family readings of exerpts from John Calvin's writings on the psalms, that David's '*The heavens declare the glory of God*' (Psalm 19:1 ESV) is an example of [synecdoche](https://www.dictionary.com/browse/synecdoche?s=t). Surely cephalopods should be included in a list of creatures that '*proclaim His handiwork*'.
