@@ -52,7 +52,7 @@ Squid are strong and fast, and the [arms and tentacles](https://en.wikipedia.org
 
 Like Cuttlefish, Humboldts can change the colour of their skin. Red, white and even purple skin make them a bit difficult for those unfamiliar to identify.
 
-Of course I can't go without mentioning the *Giant* and the *Collosal* Squid. I'm looking forward to scientists find a new, larger species just to find out what hyperbolic name they come up with next.
+Of course I can't go without mentioning the *Giant* and the *Collosal* Squid. I'm looking forward to scientists finding a new, larger species just to find out what hyperbolic name they come up with next.
 
 These are deep ocean squid that are rarely seen, although the marks of their hook-suckered tentacles can be found on the side of their arch-enemy; the sperm whale.
 
