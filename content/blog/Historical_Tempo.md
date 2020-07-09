@@ -63,7 +63,7 @@ I'm used to the sound of the first one, but the new way of playing it is intrigu
 ### Beethoven's 5th Symphony
 
 Here's another example of WBMP performance; Beethoven's 5th:
-{{< youtube eqV5ppj4 >}}
+{{< youtube _bB6qMJ7HTI >}}
 
 This is very different from what we're used to hearing and one wonders what this would sound like with full orchestra. I'm not sure I even like it, but it's very interesting.
 
