@@ -73,6 +73,6 @@ Winters writes in his [blog post about this topic](https://www.authenticsound.or
 
 As an amateur musician myself, I find Winters' ideas fascinating. I like to play Bach's Inventions on my violin and I'm trying to improve my skill on the recorder as well. It would be awfully nice if I could actually play some of this music all the way through **and** be in line with how the composer intended them to be performed.
 
-Not only that, but it seems to me (and Winters points out and demonstrates) that it's possible to put more nuance and finesse into these pieces at these slower speeds. If one plays so incredibly quickly it's only possible to get the notes out. Adding feeling to them is beyond reach.
+Not only that, but it seems to me (and Winters points out and demonstrates) that it's possible to put more nuance and finesse into these pieces at these slower speeds. If one plays so incredibly quickly then it's only possible to get the notes out. Adding feeling to them as well is beyond reach.
 
 I'm not a musicologist but I'm really enjoying learning about a different way of thinking about music. I'm going to download some scores from [imslp.org](https://imslp.org) and try this out.
