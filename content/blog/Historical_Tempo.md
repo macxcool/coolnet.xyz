@@ -67,7 +67,7 @@ Here's another example of WBMP performance; Beethoven's 5th:
 
 This is very different from what we're used to hearing and one wonders what this would sound like with full orchestra. I'm not sure I even like it, but it's very interesting.
 
-Winters writes in his [blog post about this topic](https://www.authenticsound.org/beethovens-5th-do-we-still-hear-his-message-today/) that the composer probably intended the introductory motif to represent fate knocking at the door. He presents two extreme versions of this piece as contrasting interpretations and ask which one sounds like a knock.
+Winters writes in his [blog post about this topic](https://www.authenticsound.org/beethovens-5th-do-we-still-hear-his-message-today/) that the composer probably intended the introductory motif to represent fate knocking at the door. He presents two extreme versions of this piece as contrasting interpretations and ask which one sounds more like a knock.
 
 ## Conclusion
 
