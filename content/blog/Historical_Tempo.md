@@ -1,6 +1,6 @@
 ---
 title: "Whole Beat Metronome Practice"
-date: 2020-07-08T16:36:30-04:00
+date: 2020-07-09T15:55:00-04:00
 slug: "WBMP"
 description: "Historical 'Whole Beat' metronome practice"
 keywords: ["Music", "History", "Metronome", "WBMP", "Musicology"]
@@ -48,7 +48,7 @@ The first example is Schubert's setting of Goethe's *Erlkönig*. When this is us
 
 It could be argued, though, that a man holding a boy in his arms riding through the woods in the middle of the night would not be going at a full gallop. He would be riding quickly, but at a canter; a gallop would be very reckless. It would also be impossible to carry on any kind of conversation at the gallop.
 
-A full gallop is a 4-beat, not 3, but a canter is a 3-beat. This make more sense of the story and, even though the beat is much slower, it's possible to put more emotion into the singing and playing at this tempo. In addition, the increase in tempo and intensity at the end of the piece is a lot more poignant if it can accelerate significantly.
+A full gallop is a 4-beat, not 3, but a canter is a 3-beat. This makes more sense of the story and, even though the beat is much slower, it's possible to put more emotion into the singing and playing at this tempo. In addition, the increase in tempo and intensity at the end of the piece is a lot more poignant if it can accelerate significantly.
 
 Compare these two performances, both by Wim Winters:
 
