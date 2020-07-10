@@ -76,7 +76,7 @@ Now they are everywhere in the pond. They eat the algae and they even move the f
 
 We've tried a lot of pond plants over the years. One of our favourites was the floating heart. It is prolific and very invasive in a natural pond, but in an enclosed pond like ours it was perfect. It sent its leaves and flowers everywhere. Unfortunately ours died and then it was outlawed and we couldn't find one anywhere.
 
-![Floating Heart](https://azgardens.com/wp-content/uploads/2017/06/Floating-Heart-or-Nymphoides-peltata-Plant.jpg "It goes everywhere!")
+![Floating Heart](https://azgardens.com/wp-content/uploads/2017/06/Floating-Heart-or-Nymphoides-peltata-Plant.jpg "It goes everywhere!")*azgardens.com*
 
 Our new lily is gorgeous, though. It has big, beautiful spotty leaves, and the flowers change colour from creamy yellow to pink as they mature.
 
