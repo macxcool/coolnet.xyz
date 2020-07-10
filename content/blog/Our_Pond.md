@@ -8,6 +8,7 @@ draft: false
 tags: ["Outdoors", "Pond", "Shubunkin", "Green Frogs", "Yard", "Garden"]
 math: true
 toc: true
+esv: true
 ---
 
 ## Why a new pond?
@@ -90,4 +91,4 @@ We also have a lot of duckweed, dwarf hyacinths and water lettuce. They provide 
 
 It was lot of work, but we're very happy with our new pond. We (especially Nicole) spend time out there every day watching the fish dart around and the tadpoles and the little fry play hide and seek among the plants.
 
-We thank our Lord daily for this beautiful thing we've made, and for the creatures He has given us to enjoy. We don't forget that every good thing comes from above (James 1:17).
+We thank our Lord daily for this beautiful thing we've made, and for the creatures He has given us to enjoy. We don't forget that every good thing comes from above (James 1:17 ESV).

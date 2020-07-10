@@ -18,7 +18,9 @@
               {{ if or .Params.math .Site.Params.math }}
                   {{ partial "math.html" . }}
               {{ end }}
-              {{ partial "esv-popup.html" }}
+              {{ if or .Params.esv .Site.Params.esv }}
+                  {{ partial "esv-popup.html" }}
+              {{ end }}
           </article>
           {{ partial "tags.html" .}} {{ partial "post-pagination.html" .}}
           {{ template "_internal/disqus.html" . }}

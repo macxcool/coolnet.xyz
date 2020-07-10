@@ -8,6 +8,7 @@ draft: false
 tags: ["cephalopods", "creation", "beauty", "squid", "cuttlefish", "octopus", "nautilus"]
 math: true
 toc: true
+esv: true
 ---
 
 ![Cephalopod Collection](/images/Cephalopod_Stuffies_Collection.jpg "I know. I'm a bit obsessed")
