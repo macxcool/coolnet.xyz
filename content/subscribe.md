@@ -16,9 +16,6 @@ I'll send you a confirmation e-mail once I get your address. From then on, when 
     <p>
       <label>Your Email: <input type="email" name="email" /></label>
     </p>
-    <p class="hidden">
-      <label>Don't fill this out if you are a human: <input name="extra-field" /> </label>
-    </p>
     <p>
       <button type="submit">Subscribe</button>
     </p>
