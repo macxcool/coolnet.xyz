@@ -9,7 +9,7 @@ draft: false
 
 I'll send you a confirmation e-mail once I get your address. From then on, when I post a new page, I'll send you a message with a description and a link.
 
-<form name="Subscribe" method="POST" data-netlify="true "netlify-honeypot="extra-field">
+<form name="Subscribe" method="POST" netlify>
     <p>
       <label>Your Name: <input type="text" name="name" /></label>   
     </p>
