@@ -60,12 +60,6 @@ copyright = "© {year}"
   url = "/blog"
 
 [[menu.main]]
-  identifier = "subscribe"
-  name = "subscribe"
-  title = "Subscribe"
-  url = "/subscribe"
-
-[[menu.main]]
   identifier = "rss"
   name = "rss"
   title = "RSS"
