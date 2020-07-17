@@ -19,10 +19,13 @@
                   {{ partial "math.html" . }}
               {{ end }}
               {{ if or .Params.esv .Site.Params.esv }}
-                  {{ partial "esv-popup.html" }}
-              {{ end }}
+                  {{ partial "script_esv-popup.html" }}
+              {{ end }}              
           </article>
-          {{ partial "tags.html" .}} {{ partial "post-pagination.html" .}}
+          {{ partial "tags.html" .}} 
+          <br>
+          {{ partial "subscribe-button.html" }}
+          {{ partial "post-pagination.html" .}}
           {{ template "_internal/disqus.html" . }}
           <footer class="post__footer">
             {{ partial "social-icons.html" .}}
@@ -51,5 +54,5 @@
   {{ if .Params.toc }}
     <script src="/js/table-of-contents.js"></script>
   {{ end }}
-
+  {{ partial "script_collapsible.html" }}
 {{ end }}

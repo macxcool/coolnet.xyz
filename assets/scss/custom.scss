@@ -1,0 +1,22 @@
+.collapsible {
+    background-color: rgb(233, 233, 233);
+    color: rgb(53, 53, 53);
+    cursor: pointer;
+    padding: 10px;
+    width: 20%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+}
+
+.collapsible:hover {
+    background-color: rgb(103, 111, 185);
+}
+
+.collapsibleContent {
+    padding: 0 10px;
+    display: none;
+    overflow: hidden;
+    background-color: #f1f1f1;
+}
