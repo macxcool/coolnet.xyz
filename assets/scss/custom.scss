@@ -1,5 +1,5 @@
 .collapsible {
-    background-color: rgb(233, 233, 233);
+    background-color: rgb(234, 255, 241);
     color: rgb(53, 53, 53);
     cursor: pointer;
     padding: 10px;
@@ -11,11 +11,11 @@
 }
 
 .collapsible:hover {
-    background-color: rgb(103, 111, 185);
+    background-color: rgb(191, 255, 213);
 }
 
 .collapsibleContent {
-    padding: 0 10px;
+    padding: 18 0 18 18px;
     display: none;
     overflow: hidden;
     background-color: #f1f1f1;
