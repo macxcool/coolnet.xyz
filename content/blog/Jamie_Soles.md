@@ -33,10 +33,10 @@ Music is a big deal! It's an important way to teach your children about God's wo
 
 The thing is, music should be skilfully done and it should be theologically sound. Jamie Soles delivers on both counts. You can't go wrong with teaching his songs to your kids, and you can't go wrong with walking around humming them yourself either.
 
-Soles' music is very difficult to categorize. It ranges from what sounds a bit like folk to songs that are more akin to rock and roll. But his music and his words always seem to suit each other and he seems to always have a fresh take on a biblical theme or a little-known Bible story. It doesn't hurt that his wife and his children have often been a part of his albums and their contributions make many of his recording that much better.
+Soles' music is very difficult to categorize. It ranges from what sounds a bit like folk to songs that are more akin to rock and roll. But his music and his words always seem to suit each other and he seems to always have a fresh take on a biblical theme or a little-known Bible story. It doesn't hurt that his wife and his children have often been a part of his albums and their contributions make many of his recordings that much better.
 
 I highly recommend Jamie Soles' music. You can find all of his albums on [Spotify](https://open.spotify.com/artist/3I7IkK6CPGWkxCw6TUhI7M?si=oUVJd9DvRVSmVz3-I-d5oQ) and you can purchase them as CD or MP3 downloads at [solmusic.ca](https://solmusic.ca).
 
-I want to leave you with one song that I especially love. Soles' wife Valerie sings the poignant story of Luke 7:11-17 from the perspective of the widow whose only son has died. My sons call me a softy, but this never fails to bring me to tears.
+I want to leave you with one song that I especially love. Soles' wife Valerie sings the poignant story of Luke 7:11-17 from the perspective of the widow whose only son has died. My sons call me a softy, but this never fails to bring me to tears, mainly because of the widow's realization this this man is a great prophet who God has finally sent to Israel.
 
 <iframe src="https://open.spotify.com/embed/track/3oNeCwOcMlW6DeOhEJqVhN" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
