@@ -37,6 +37,6 @@ Soles' music is very difficult to categorize. It ranges from what sounds a bit l
 
 I highly recommend Jamie Soles' music. You can find all of his albums on [Spotify](https://open.spotify.com/artist/3I7IkK6CPGWkxCw6TUhI7M?si=oUVJd9DvRVSmVz3-I-d5oQ) and you can purchase them as CD or MP3 downloads at [solmusic.ca](https://solmusic.ca).
 
-I want to leave you with one song that I especially love. Soles' wife Valerie sings the poignant story of Luke 7:11-17 from the perspective of the widow whose only son has died. My sons call me a softy, but this never fails to bring me to tears, mainly because of the widow's realization this this man is a great prophet who God has finally sent to Israel.
+I want to leave you with one song that I especially love. Soles' wife Valerie sings the poignant story of Luke 7:11-17 from the perspective of the widow whose only son has died. My sons call me a softy, but this never fails to bring me to tears, mainly because of the widow's realization that this man is the great prophet whom God has finally sent to Israel.
 
 <iframe src="https://open.spotify.com/embed/track/3oNeCwOcMlW6DeOhEJqVhN" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
