@@ -1,6 +1,6 @@
 ---
 title: "Stand-Up Maths"
-date: 2020-07-29T10:25:46-04:00
+date: 2020-07-29T14:10:46-04:00
 slug: "standup-maths"
 description: "Matt Parker's inimitable Maths comedy"
 keywords: ["Math", "Maths", "Science", "Comedy", "Stand-Up", "Live Show"]
