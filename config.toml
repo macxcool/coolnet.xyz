@@ -65,5 +65,11 @@ copyright = "© {year}"
   title = "RSS"
   url = "/blog/index.xml"
 
+[[menu.main]]
+  identifier = "links"
+  name = "links"
+  title = "Links"
+  url = "/links"
+
 
 
