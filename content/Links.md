@@ -18,16 +18,17 @@ toc: true
 
 ### Other
 
-**Geogebra**: https://www.geogebra.org/  
-**SageMath**: https://www.sagemath.org/
+**Geogebra**: Free, open source, online math visualization software https://www.geogebra.org/  
+**SageMath**: Free, open source, professional math research and education software https://www.sagemath.org/
 
 ## Music
 
-**MuseScore**: https://www.musescore.org
+**MuseScore**: World-class, free, open source music notation software https://www.musescore.org  
+**MIDI Association**: https://www.midi.org
 
 ## Books
 
-**Bookfinder.com**: https://www.bookfinder.com  
+**Bookfinder.com**: Search the whole Internet for books https://www.bookfinder.com  
 **Monergism Books**: http://www.monergismbooks.com/  
 **Monergism Free eBooks**: https://www.monergism.com/topics/free-ebooks
 
