@@ -19,7 +19,8 @@ toc: true
 ### Other
 
 **Geogebra**: Free, open source, online math visualization software https://www.geogebra.org/  
-**SageMath**: Free, open source, professional math research and education software https://www.sagemath.org/
+**SageMath**: Free, open source, professional math research and education software https://www.sagemath.org/  
+**KhanAcademy**: Kindergarten to University math instruction, practice and testing, all for free. This is an excellent resource! https://www.khanacademy.org
 
 ## Music
 
@@ -28,7 +29,7 @@ toc: true
 
 ## Books
 
-**Bookfinder.com**: Search the whole Internet for books https://www.bookfinder.com  
+**Bookfinder.com**: Search the whole Internet for books and textbooks https://www.bookfinder.com  
 **Monergism Books**: http://www.monergismbooks.com/  
 **Monergism Free eBooks**: https://www.monergism.com/topics/free-ebooks
 
@@ -37,3 +38,32 @@ toc: true
 **Monergism**: https://monergism.com  
 **Desiring God**: https://www.desiringgod.org  
 **Ligonier**: https://www.ligonier.org  
+
+## Software
+**AlternativeTo.net**: Find alternatives to commercial software https://alternativeto.net
+
+### LibreOffice
+[LibreOffice](https://www.libreoffice.org) is an excellent replacement for Microsoft Office. It includes a word processor, spreadsheet, presentation, diagram drawing and equation editing components. It can open and save in Microsoft formats and PDF natively.
+
+### Adobe Creative Cloud alternatives
+
+|Adobe CC App|Alternative|Quality|Cost|Details|
+|------------|-----------|-------|----|-------|
+|Photoshop|[Affinity Photo*](https://affinity.serif.com/en-gb/photo/)|Excellent|One-time purchase|Often goes on sale|
+|InDesign/Illustrator|[Affinity Designer](https://affinity.serif.com/en-gb/designer/)|Excellent|One-time purchase||
+|InDesign/XD|[Affinity Publisher](https://affinity.serif.com/en-gb/publisher/)|Excellent|One-time purchase||
+|Premiere/After Effects|[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/)|Excellent|Free||
+|Premiere/After Effects|DaVinci Resolve Studio|Excellent|One-time purchase|Commercial version of DaVinci Resolve|
+|Dreamweaver|[Brackets](http://brackets.io/)|Excellent|FOSS*||
+|Photoshop|[GIMP](https://www.gimp.org/)|Very Good|FOSS|GNU Image Manipulation Program|
+|InDesign|[Scribus](https://www.scribus.net/)|Good|FOSS|Get version 1.5.5|
+|Illustrator|[Inkscape](https://inkscape.org/)|Very Good|FOSS|Vector graphics drawing|
+|Lightroom|[darktable](http://www.darktable.org/)|Excellent|FOSS||
+|Audition|[Audacity](https://www.audacityteam.org/)|Good|FOSS|Does most of what you need|
+|Photoshop/Illustrator|[Krita](https://krita.org/en/)|Excellent|FOSS|Digital painting|
+
+
+\* Affinity software actually covers a lot of ground, doing a lot of what Photoshop, InDesign, Illustrator and XD do.  
+\* FOSS = Free and Open Source
+
+
