@@ -56,7 +56,7 @@ toc: true
 |Premiere/After Effects|DaVinci Resolve Studio|Excellent|One-time purchase|Commercial version of DaVinci Resolve|
 |Dreamweaver|[VSCodium](https://vscodium.com/)|Excellent|FOSS*||
 |Photoshop|[GIMP](https://www.gimp.org/)|Very Good|FOSS|GNU Image Manipulation Program|
-|InDesign|[Scribus](https://www.scribus.net/)|Good|FOSS|Get version 1.5.5|
+|InDesign|[Scribus](https://www.scribus.net/)|Good|FOSS|Get version 1.5.x|
 |Illustrator|[Inkscape](https://inkscape.org/)|Very Good|FOSS|Vector graphics drawing|
 |Lightroom|[darktable](http://www.darktable.org/)|Excellent|FOSS||
 |Audition|[Audacity](https://www.audacityteam.org/)|Good|FOSS|Does most of what you need|
