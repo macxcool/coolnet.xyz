@@ -54,7 +54,7 @@ toc: true
 |InDesign/XD|[Affinity Publisher](https://affinity.serif.com/en-gb/publisher/)|Excellent|One-time purchase||
 |Premiere/After Effects|[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/)|Excellent|Free||
 |Premiere/After Effects|DaVinci Resolve Studio|Excellent|One-time purchase|Commercial version of DaVinci Resolve|
-|Dreamweaver|[Brackets](http://brackets.io/)|Excellent|FOSS*||
+|Dreamweaver|[VSCodium](https://vscodium.com/)|Excellent|FOSS*||
 |Photoshop|[GIMP](https://www.gimp.org/)|Very Good|FOSS|GNU Image Manipulation Program|
 |InDesign|[Scribus](https://www.scribus.net/)|Good|FOSS|Get version 1.5.5|
 |Illustrator|[Inkscape](https://inkscape.org/)|Very Good|FOSS|Vector graphics drawing|
