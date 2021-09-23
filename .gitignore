@@ -1,3 +1,5 @@
 public
 resources/_gen
 .vscode
+# Local Netlify folder
+.netlify
