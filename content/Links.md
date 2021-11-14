@@ -40,30 +40,31 @@ toc: true
 **Ligonier**: https://www.ligonier.org  
 
 ## Software
+
 **AlternativeTo.net**: Find alternatives to commercial software https://alternativeto.net
 
 ### LibreOffice
+
 [LibreOffice](https://www.libreoffice.org) is an excellent replacement for Microsoft Office. It includes a word processor, spreadsheet, presentation, diagram drawing and equation editing components. It can open and save in Microsoft formats and PDF natively.
 
 ### Adobe Creative Cloud alternatives
 
-|Adobe CC App|Alternative|Quality|Cost|Details|
-|------------|-----------|-------|----|-------|
-|Photoshop|[Affinity Photo*](https://affinity.serif.com/en-gb/photo/)|Excellent|One-time purchase|Often goes on sale|
-|InDesign/Illustrator|[Affinity Designer](https://affinity.serif.com/en-gb/designer/)|Excellent|One-time purchase||
-|InDesign/XD|[Affinity Publisher](https://affinity.serif.com/en-gb/publisher/)|Excellent|One-time purchase||
-|Premiere/After Effects|[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/)|Excellent|Free||
-|Premiere/After Effects|DaVinci Resolve Studio|Excellent|One-time purchase|Commercial version of DaVinci Resolve|
-|Dreamweaver|[VSCodium](https://vscodium.com/)|Excellent|FOSS*||
-|Photoshop|[GIMP](https://www.gimp.org/)|Very Good|FOSS|GNU Image Manipulation Program|
-|InDesign|[Scribus](https://www.scribus.net/)|Good|FOSS|Get version 1.5.x|
-|Illustrator|[Inkscape](https://inkscape.org/)|Very Good|FOSS|Vector graphics drawing|
-|Lightroom|[darktable](http://www.darktable.org/)|Excellent|FOSS||
-|Audition|[Audacity](https://www.audacityteam.org/)|Good|FOSS|Does most of what you need|
-|Photoshop/Illustrator|[Krita](https://krita.org/en/)|Excellent|FOSS|Digital painting|
-
+| Adobe CC App           | Alternative                                                                  | Quality   | Cost              | Details                               |
+| ---------------------- | ---------------------------------------------------------------------------- | --------- | ----------------- | ------------------------------------- |
+| Photoshop              | [Affinity Photo*](https://affinity.serif.com/en-gb/photo/)                   | Excellent | One-time purchase | Often goes on sale                    |
+| InDesign/Illustrator   | [Affinity Designer](https://affinity.serif.com/en-gb/designer/)              | Excellent | One-time purchase |                                       |
+| InDesign/XD            | [Affinity Publisher](https://affinity.serif.com/en-gb/publisher/)            | Excellent | One-time purchase |                                       |
+| Premiere/After Effects | [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) | Excellent | Free              |                                       |
+| Premiere/After Effects | DaVinci Resolve Studio                                                       | Excellent | One-time purchase | Commercial version of DaVinci Resolve |
+| Dreamweaver            | [VSCodium](https://vscodium.com/)                                            | Excellent | FOSS*             |                                       |
+| Photoshop              | [GIMP](https://www.gimp.org/)                                                | Very Good | FOSS              | GNU Image Manipulation Program        |
+| InDesign               | [Scribus](https://www.scribus.net/)                                          | Good      | FOSS              | Get version 1.5.x                     |
+| Illustrator            | [Inkscape](https://inkscape.org/)                                            | Very Good | FOSS              | Vector graphics drawing               |
+| Lightroom              | [darktable](http://www.darktable.org/)                                       | Excellent | FOSS              |                                       |
+| Audition               | [Audacity](https://www.audacityteam.org/)                                    | Good      | FOSS              | Does most of what you need            |
+| Photoshop/Illustrator  | [Krita](https://krita.org/en/)                                               | Excellent | FOSS              | Digital painting                      |
+| Animator               | [Synfig Studio](https://www.synfig.org/)                                     | Excellent | FOSS              |                                       |
+| Animator               | [Pencil2D](https://www.pencil2d.org/)                                        | Excellent | FOSS              | Hand-drawn animation                  |
 
 \* Affinity software actually covers a lot of ground, doing a lot of what Photoshop, InDesign, Illustrator and XD do.  
 \* FOSS = Free and Open Source
-
-
