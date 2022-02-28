@@ -3,3 +3,6 @@ resources/_gen
 .vscode
 # Local Netlify folder
 .netlify
+.hugo_build.lock
+frontmatter.json
+.frontmatter
