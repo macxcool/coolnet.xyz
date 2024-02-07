@@ -56,15 +56,22 @@ toc: true
 | InDesign/XD            | [Affinity Publisher](https://affinity.serif.com/en-gb/publisher/)            | Excellent | One-time purchase |                                       |
 | Premiere/After Effects | [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) | Excellent | Free              |                                       |
 | Premiere/After Effects | DaVinci Resolve Studio                                                       | Excellent | One-time purchase | Commercial version of DaVinci Resolve |
-| Dreamweaver            | [VSCodium](https://vscodium.com/)                                            | Excellent | FOSS*             |                                       |
+| Premiere/After Effects | [Blender](https://blender.org)                                               | Excellent | FOSS*             | 2D/3D Modeling and animation          |
+| Premiere               | [KdenLive](https://kdenlive.org)                                             | Good      | FOSS              | Much more simple                      |
+| Dreamweaver            | [VSCodium](https://vscodium.com/)                                            | Excellent | FOSS              |                                       |
 | Photoshop              | [GIMP](https://www.gimp.org/)                                                | Very Good | FOSS              | GNU Image Manipulation Program        |
 | InDesign               | [Scribus](https://www.scribus.net/)                                          | Good      | FOSS              | Get version 1.5.x                     |
 | Illustrator            | [Inkscape](https://inkscape.org/)                                            | Very Good | FOSS              | Vector graphics drawing               |
 | Lightroom              | [darktable](http://www.darktable.org/)                                       | Excellent | FOSS              |                                       |
 | Audition               | [Audacity](https://www.audacityteam.org/)                                    | Good      | FOSS              | Does most of what you need            |
+| Audition               | [Ardour](https://ardour.org)                                                 | Excellent | FOSS              | DAW - $ for Windows/Mac               |
 | Photoshop/Illustrator  | [Krita](https://krita.org/en/)                                               | Excellent | FOSS              | Digital painting                      |
 | Animator               | [Synfig Studio](https://www.synfig.org/)                                     | Excellent | FOSS              |                                       |
 | Animator               | [Pencil2D](https://www.pencil2d.org/)                                        | Excellent | FOSS              | Hand-drawn animation                  |
 
 \* Affinity software actually covers a lot of ground, doing a lot of what Photoshop, InDesign, Illustrator and XD do.  
 \* FOSS = Free and Open Source
+
+More information (ymmv):
+[Discussion on Reddit](https://www.reddit.com/r/Adobe/comments/si673z/decent_open_source_alternatives_to_adobe_creative/)
+[Curated list on Github](https://github.com/KenneyNL/Adobe-Alternatives)
