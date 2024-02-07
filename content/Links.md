@@ -72,6 +72,8 @@ toc: true
 \* Affinity software actually covers a lot of ground, doing a lot of what Photoshop, InDesign, Illustrator and XD do.  
 \* FOSS = Free and Open Source
 
-More information (ymmv):
-[Discussion on Reddit](https://www.reddit.com/r/Adobe/comments/si673z/decent_open_source_alternatives_to_adobe_creative/)
-[Curated list on Github](https://github.com/KenneyNL/Adobe-Alternatives)
+*More information (ymmv)*:
+
+- [Discussion on Reddit](https://www.reddit.com/r/Adobe/comments/si673z/decent_open_source_alternatives_to_adobe_creative/)
+
+- [Curated list on Github](https://github.com/KenneyNL/Adobe-Alternatives)
